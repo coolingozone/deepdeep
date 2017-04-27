@@ -5,4 +5,6 @@ This lesson aim to setup a basic framework for us to think machine learning proc
 The aim of any learning process is to build a model using data on hand and subsequently use it in prediction, classification or etc.
 
 
-![Learning Process](learningprocess.jpg)
+<center>![Learning Process](learningprocess.jpg)
+<center>Figure 1 The learning process
+
