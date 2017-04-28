@@ -16,7 +16,7 @@ The data set need to be split into two set:training and test. The ratio usually 
 - It is usually better to select the data for each set randomly. However, in order ensure that the test can be replicated, we got to seed the random number generator.
 
 ![Learning Process](model_complexity_error_training_test.jpg)
-Figure 2 model complexity vs error 
+<p style="text-align: center;">Figure 2 model complexity vs error </p>
 (Source for graph https://gerardnico.com/wiki/data_mining/bias_trade-off)
 
 The objective of learning is not to fit the model to the data (training set). The objective is for the model to achieve high level of generalization. It means that the model has capture the non-linear relationship between the input and output. These relationship may not even be obvious to causal human observers.
