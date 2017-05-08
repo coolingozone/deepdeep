@@ -34,7 +34,7 @@ In the next example, constant a and b are supposed to have value of 10 and 32. H
 ## Simple Regress with Tensorflow
 
 Please refer to:
-* Jupyter Notebbok [link](http://104.199.205.18:8888/notebooks/DeepWorkshop/SimpleRegression.ipynb) for full explaination.
+* Jupyter Notebbok [link](https://github.com/coolingozone/deepdeep/blob/master/SimpleRegression.ipynb) for full explaination.
 * Code to download at[link](LinearRegression.py)
 
 
