@@ -1,4 +1,6 @@
-# Introduction to Tensorflow
+#  Tensorflow
+
+## Introduction
 
 Tensorflow is the a Open Source framework for Machine Intelligence developed by Google. It using data flow graphs to enable user to easily deploy numberical computation for machine learning. It's flexible architecture allows user  to deploy their computation to multiple CPU or GPU environment whether on desktop, server or mobile device or even embedded system such as Raspberry PI.
 
@@ -27,5 +29,13 @@ Instruction to install Tensorflow on different platforms:
       >>> 
 This an simple hello world type for tensorflow. What is different from normal python is the present of session command. In Tensorflow when we initialized a variable such as hello with tf.constant("Hello, Tensorflow!‘). the variable is not created at that point. Only when the variable is 'run' by a session such as sess.run(hello) would the variable (constant in this case) would be created.
 
-In the next example, constant a and b are supposed to have value of 10 and 32. However, if we issue command of a+b at this point, the result is nothing. We would need a session to run the addition, sess.run(a+b) and the result would be produce.
+In the next example, constant a and b are supposed to have value of 10 and 32. However, if we issue command of a+b at this point, the result is nothing. We would need a session to run the addition, sess.run(a+b) and the result would be produced.
+
+## Simple Regress with Tensorflow
+
+Please refer to:
+* Jupyter Notebbok [link](http://104.199.205.18:8888/notebooks/DeepWorkshop/SimpleRegression.ipynb) for full explaination.
+* Code to download at[link](LinearRegression.py)
+
+
 
