@@ -31,11 +31,7 @@ This an simple hello world type for tensorflow. What is different from normal py
 
 In the next example, constant a and b are supposed to have value of 10 and 32. However, if we issue command of a+b at this point, the result is nothing. We would need a session to run the addition, sess.run(a+b) and the result would be produced.
 
-## Simple Regress with Tensorflow
 
-Please refer to:
-* Jupyter Notebbok [link](https://github.com/coolingozone/deepdeep/blob/master/SimpleRegression.ipynb) for full explaination.
-* Code to download at[link](LinearRegression.py)
 
 
 

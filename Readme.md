@@ -10,11 +10,11 @@ However, I do not intend to go deep into the maths but just enough for us to hav
 
 [Learning  Process](Learningprocess.md)
 
-[Simple Regression Learning]()
+[Introduction to Tensorflow](Tensorflow.md)
+
+[Simple Regression Learning](https://github.com/coolingozone/deepdeep/blob/master/SimpleRegression.ipynb)
 
 [Basic of Multiple Layer Perceptron  Neural Network (MLP)]()
-
-[Introduction to Tensorflow](Tensorflow.md)
 
 [Deep Learning]()
 
